@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Números Mágicos</string>
+
+    <string name="boas_vindas">Bem vindo ao jogo Números Mágicos!</string>
+    <string name="botao_jogar">Iniciar Jogo</string>
+
+    <string name="botao_chutar">Chutar</string>
+    <string name="botao_novo_jogo">Novo Jogo</string>
+    <string name="text_mensagem">Esperando seu chute...</string>
+
+    <string name="mensagem_valor_menor">O número que pensei é menor...</string>
+    <string name="mensagem_valor_maior">O número que pensei é maior...</string>
+    <string name="mensagem_valor_certo">Acertou!</string>
+
+    <string name="confirma_novo_jogo">Tem certeza que deseja iniciar um novo jogo?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>
